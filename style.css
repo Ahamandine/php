@@ -1,0 +1,27 @@
+body {
+    background-color:plum;
+}
+
+.container {
+    background-color:lemonchiffon;
+    min-height: 100vh;
+}
+
+label[for=fruit_1]{
+    font-weight:bold;
+    color:forestgreen
+}
+
+label[for=fruit_2]{
+    font-weight: bold;
+    color: goldenrod
+}
+
+label[for=fruit_3]{
+    font-weight: bold;
+    color:indianred;
+}
+
+.custom-checkbox {
+    height: 2em;
+}
